@@ -6,6 +6,7 @@ C
 Java
 Python
 Sql
+Node js
 
 Area of Interest:
 OOPS
