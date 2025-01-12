@@ -1,5 +1,3 @@
 Hi!
-I am dharaneeswaran,currently pursing BE-CSE from Thiagarajar College of Engineering-Madurai
-
-
+I am Dharaneeswaran, a recent graduate with a Bachelor of Engineering (B.E.) in Computer Science and Engineering from Thiagarajar College of Engineering, Madurai.
 
